@@ -21,7 +21,7 @@ function Footer() {
               Cyber Drops
             </h2>
             <p className=" ff_lato fw-normal fs_sm text_white mb-0 mt-2 pt-1">
-              Viverra metus viverra rhoncus eget quam suspendisse diam{" "}
+              Viverra metus viverra rhoncus eget quam suspendisse diam
               <span className=" d-md-block">
                 amet, nisl. Mattis maecenas libero lacinia accumsan amet.
               </span>

@@ -23,7 +23,6 @@ function Loader() {
           style={{ zIndex: "999999999999999" }}
           className=" position-fixed h-100 w-100 min-vh-100 bg-black"
         >
-          {" "}
           <div id="loader-1">
             <div className="loader-content"></div>{" "}
           </div>{" "}

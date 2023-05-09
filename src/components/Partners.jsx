@@ -14,7 +14,7 @@ function Partners() {
         <div className="light_white_shadow_partners z_index_1"></div>
         <div className="container">
           <h2
-            className=" ff_lato fw-bold fs_4xl text_white text-center mb_60_custom pb-xl-5"
+            className=" ff_lato fw-bold fs_4xl text_white text-center mb_custom pb-xl-5"
             data-aos="fade-down"
             data-aos-easing="linear"
             data-aos-duration="2000"
@@ -32,7 +32,7 @@ function Partners() {
             >
               <div className="position-relative border_gridient_partners d-flex justify-content-center align-items-center">
                 <img
-                  className="h_145 py-sm-5 py-3 px-sm-5"
+                  className="h_custom py-sm-5 py-3 px-sm-5"
                   src={play_bit}
                   alt="play_bit"
                 />
@@ -51,7 +51,7 @@ function Partners() {
                   data-aos-deley="1000"
                 >
                   <div className="position-relative border_gridient_partners d-flex justify-content-center align-items-center ">
-                    <img className="h_145 " src={capital} alt="capital" />
+                    <img className="h_custom " src={capital} alt="capital" />
                   </div>
                   <p className=" text-center mt-2 mt-md-4 ff_lato fw-bold fs_md mb-0 text_black">
                     24 Capital
@@ -65,7 +65,7 @@ function Partners() {
                   data-aos-deley="1000"
                 >
                   <div className="position-relative border_gridient_partners d-flex justify-content-center align-items-center ">
-                    <img className="h_145" src={trading} alt="trading" />
+                    <img className="h_custom" src={trading} alt="trading" />
                   </div>
                   <p className=" text-center mt-md-4 mt-2 ff_lato fw-bold fs_md mb-0 text_black">
                     TradingHive
@@ -80,7 +80,7 @@ function Partners() {
                 >
                   <div className="position-relative border_gridient_partners d-flex justify-content-center align-items-center ">
                     <img
-                      className="py-sm-5 py-3 px-sm-5 h_145"
+                      className="py-sm-5 py-3 px-sm-5 h_custom"
                       src={focus}
                       alt="focus"
                     />
@@ -93,7 +93,7 @@ function Partners() {
             </div>
           </div>
           <p
-            className=" text-center ff_lato fw-bold fs_md text_primary mt_60_custom pt-sm-3 p-xl-0"
+            className=" text-center ff_lato fw-bold fs_md text_primary mt_custom pt-sm-3 p-xl-0"
             data-aos="fade-up"
             data-aos-easing="linear"
             data-aos-duration="2000"
